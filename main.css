@@ -19,7 +19,7 @@
     .wish{
         position: relative;
         justify-content: center;
-        min-height: 90vh;
+        min-height: 86vh;
     }
 
     .wish video{
@@ -50,20 +50,13 @@
         text-transform: uppercase;
     }
 
-    .wish #myBtn {
-        width: 200px;
-        font-size: 18px;
-        padding: 10px;
-        border: none;
-        background: #ff049f;
+    .wish #mybtn{
+        margin: 130px;
+        border: 2px solid #00CDAC;
         color: #fff;
-        cursor: pointer;
-      }
-      
-      #myBtn:hover {
-        background: #ddd;
-        color: red;
-      }
+        padding: 6px 10px 6px 10px;
+        
+    }
 
 
     
